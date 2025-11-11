@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+# Environment
+.env
+# Data (Do not upload)
+data.csv
+*.csv
+model/model.save filter=lfs diff=lfs merge=lfs -text
